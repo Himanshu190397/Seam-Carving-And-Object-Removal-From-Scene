@@ -1,0 +1,1 @@
+# Seam-Carving-And-Object-Removal-From-Scene
