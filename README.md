@@ -33,6 +33,9 @@ Run the following command
 
 python3 main.py (--resize|--remove) --input <input image path> --output<output image path> [--input_mask| --remove_mask]<path of masked object to be preserved| path of masked object to be removed> (--forward_energy(by default backward energy is done) (-- nh --nw)<if --resize>
 
+I've added some input images for people to try using this algorithm, you could also add images of your choice to the in folder, also created the out
+folder to display the output images.
+
 
 
 
